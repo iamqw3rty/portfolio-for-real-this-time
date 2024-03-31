@@ -1,156 +1,111 @@
-const logotext = "JOHN";
+const logotext = "qw3rty";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "qw3rty",
+    description: "my name is qw3rty! i'm amateur graphic designer, photographer, and video editor from the United States",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "i'm qw3rty!",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "i make logos",
+        second: "oh yeah, i edit videos too!",
+        third: "...and the occasional picture",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "graphic designer extraordinare, video editor, horrible photographer, everything in between - moderating Minecraft servers in my free time^^ - this design is not mine, creator is ubaimutl",
+    your_img_url: "https://i.imgur.com/MBbSpnB.png",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "who i am!",
+    aboutme: "i live in the good ol' United States! i enjoy electronics and aviation in my spare time",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "smpearth",
+        where: "minecraft helper",
+        date: "2024 - now",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "smpearth",
+        where: "discord moderator",
+        date: "2021 - 2022",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "several small minecraft servers",
+        where: "helper / moderator",
+        date: "before 2020",
     },
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
+        name: "photoshop",
+        value: 55,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "illustrator",
+        value: 35,
     },
     {
-        name: "Javascript",
-        value: 80,
+        name: "resolve",
+        value: 20,
     },
     {
-        name: "React",
-        value: 60,
-    },
-    {
-        name: "Jquery",
-        value: 85,
+        name: "coolness",
+        value: 100,
     },
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "graphic designs",
+        description: "making logos and aircraft liveries for virtual games",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
-    },
-    {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "basic video editing",
+        description: "extremely basic video editing, usually for personal projects",
     },
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.imgur.com/9QsvPcp.png",
+        description: "Election Poster",
+        link: "https://imgur.com/a/mFySdwT",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.imgur.com/nbtt1VC.png",
+        description: "EMS Logo Mockup",
+        link: "https://imgur.com/a/mFySdwT",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.imgur.com/vQnp3jN.png",
+        description: "Discord Bot Logo Mockup",
+        link: "https://imgur.com/a/mFySdwT",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.imgur.com/AOqUf5I.png",
+        description: "Application Logo Mockup",
+        link: "https://imgur.com/a/mFySdwT",
     },
     {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "Dispatching Logo Markup",
+        description: "https://i.imgur.com/Yzljgxd.png",
+        link: "https://imgur.com/a/mFySdwT",
     },
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "iamqw3rty@gmail.com",
+    YOUR_FONE: "you thought",
+    description: "please just use my discord, but if you can't, contact me here",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_08uau0l",
+    YOUR_TEMPLATE_ID: "template_khts9v2",
+    YOUR_USER_ID: "kxTC9AXAMdJoGpWZm",
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/iamqw3rty",
+    discord: "https://discord.com/users/367408425463709708",
+    twitter: "https://twitter.com/qw_3rty",
 };
 export {
     meta,
