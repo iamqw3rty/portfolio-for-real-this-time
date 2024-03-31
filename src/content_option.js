@@ -85,8 +85,8 @@ const dataportfolio = [{
         link: "https://imgur.com/a/mFySdwT",
     },
     {
-        img: "Dispatching Logo Markup",
-        description: "https://i.imgur.com/Yzljgxd.png",
+        img: "https://i.imgur.com/Yzljgxd.png",
+        description: "Dispatching Logo Mockup",
         link: "https://imgur.com/a/mFySdwT",
     },
 ];
