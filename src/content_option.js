@@ -8,21 +8,26 @@ const introdata = {
     title: "i'm qw3rty!",
     animated: {
         first: "i make logos",
-        second: "oh yeah, i edit videos too!",
-        third: "...and the occasional picture",
+        second: "literally nothing else",
+        third: "why are you still here get out",
     },
-    description: "graphic designer extraordinare, video editor, horrible photographer, everything in between - moderating Minecraft servers in my free time^^ - this design is not mine, creator is ubaimutl",
+    description: "graphic designer extraordinare, video editor, horrible photographer, everything in between - moderating Minecraft servers in my free time - this design is not mine, creator is ubaimutl",
     your_img_url: "https://i.imgur.com/MBbSpnB.png",
 };
 
 const dataabout = {
     title: "who i am!",
-    aboutme: "i live in the good ol' United States! i enjoy electronics and aviation in my spare time",
+    aboutme: "united states liver, swag haver, aviation enjoyer",
 };
 const worktimeline = [{
         jobtitle: "smpearth",
-        where: "minecraft helper",
+        where: "minecraft moderator",
         date: "2024 - now",
+    },
+    {
+        jobtitle: "smpearth",
+        where: "minecraft helper",
+        date: "2024 - 2024",
     },
     {
         jobtitle: "smpearth",
